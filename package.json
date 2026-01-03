@@ -1,0 +1,26 @@
+{
+  "name": "mblc",
+  "version": "1.0.0",
+  "description": "My_Bookshelf_Line_ChatBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoyu0607/mblc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoyu0607/mblc/issues"
+  },
+  "homepage": "https://github.com/leoyu0607/mblc#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "postgres": "^3.4.7"
+  }
+}
